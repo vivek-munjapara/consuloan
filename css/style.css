@@ -254,7 +254,8 @@ header {
 }
 
 .float .float-content:hover {
-    background-image: url(../images/banner01.jpg);
+    /* background-image: url(../images/banner01.jpg); */
+    background-color: #062647;
     color: #fff;
     background-size: cover;
 }
